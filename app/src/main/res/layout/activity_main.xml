@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center" android:orientation="vertical" android:background="@mipmap/targemli" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1">
+        <LinearLayout android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textSize="20dp" android:textColor="@android:color/white" android:gravity="center" android:id="@+id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="בחר/י את רמת האנגלית התאימה לך והמשך/י למבחן"/>
+        </LinearLayout>
+    </RelativeLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/categorylayout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="25dp" android:layout_weight="0.3">
+        <GridLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="0">
+            <Button android:textSize="16dp" android:textStyle="bold" android:gravity="center" android:id="@+id/dailyWords" android:background="@drawable/personal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10dp" android:layout_column="2" android:onClick="DailyWords" android:layout_row="1"/>
+            <Button android:textSize="16dp" android:textStyle="bold" android:gravity="center" android:id="@+id/basicWords" android:background="@drawable/letters" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10dp" android:layout_column="3" android:onClick="BasicWords" android:layout_row="1"/>
+            <TextView android:textStyle="bold" android:textColor="@android:color/white" android:id="@+id/textView2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_column="2" android:text="אנגלית יומיומית" android:width="120dp" android:layout_row="2"/>
+            <TextView android:textStyle="bold" android:textColor="@android:color/white" android:id="@+id/textView" android:layout_width="120dp" android:layout_height="wrap_content" android:layout_column="3" android:text="אנגלית בסיסית" android:layout_row="2"/>
+            <Button android:textSize="16dp" android:textStyle="bold" android:gravity="center" android:id="@+id/literaryWords" android:background="@drawable/woman" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10dp" android:layout_column="2" android:onClick="LiteraryWords" android:layout_row="3"/>
+            <Button android:textSize="16dp" android:textStyle="bold" android:gravity="center" android:id="@+id/advancedWords" android:background="@drawable/certified" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10dp" android:layout_column="3" android:width="120dp" android:onClick="AdvancedWords" android:layout_row="3"/>
+            <TextView android:textStyle="bold" android:textColor="@android:color/white" android:id="@+id/textView3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_column="2" android:text="אנגלית ספרותית" android:width="120dp" android:layout_row="4"/>
+            <TextView android:textStyle="bold" android:textColor="@android:color/white" android:id="@+id/textView4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_column="3" android:text="אנגלית גבוהה" android:width="120dp" android:layout_row="4"/>
+        </GridLayout>
+    </LinearLayout>
+</LinearLayout>

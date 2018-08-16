@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="AdvancedWords">
+        <item>abjure</item>
+        <item>enervate</item>
+        <item>gauche</item>
+        <item>incognito</item>
+        <item>lugubrious</item>
+        <item>amiable</item>
+        <item>brazen</item>
+        <item>cajole</item>
+        <item>debase</item>
+        <item>despot</item>
+        <item>gratuitous</item>
+        <item>elated</item>
+        <item>dulcify</item>
+        <item>feral</item>
+        <item>forsake</item>
+        <item>impeccable</item>
+        <item>incisive</item>
+        <item>infamy</item>
+        <item>haughty</item>
+        <item>Bestow</item>
+        <item>crisis</item>
+        <item>civilian</item>
+        <item>Equity</item>
+        <item>imbroglio</item>
+        <item>Harp</item>
+        <item>Flabbergast</item>
+        <item>Intend</item>
+        <item>Jurisprudence</item>
+        <item>Oppression</item>
+        <item>Portentous</item>
+        <item>plenteous</item>
+        <item>abjure</item>
+    </array>
+    <array name="AdvancedWordsAnswers">
+        <item>להתכחש</item>
+        <item>חלש</item>
+        <item>חסר נימוס</item>
+        <item>בעילום שם</item>
+        <item>מדכא</item>
+        <item>ידידותי</item>
+        <item>חצוף</item>
+        <item>פתה</item>
+        <item>השפיל</item>
+        <item>עריץ</item>
+        <item>מיותר</item>
+        <item>מרומם</item>
+        <item>המתיק</item>
+        <item>פראי</item>
+        <item>זנח</item>
+        <item>מושלם</item>
+        <item>נוקב</item>
+        <item>קלון</item>
+        <item>יהיר</item>
+        <item>להעניק</item>
+        <item>משבר</item>
+        <item>אזרח</item>
+        <item>הגינות</item>
+        <item>תסבוכת</item>
+        <item>נבל</item>
+        <item>הדהים</item>
+        <item>התכוון</item>
+        <item>תורת המשפט</item>
+        <item>דיכוי</item>
+        <item>מבשר רעות</item>
+        <item>שופע</item>
+        <item>להתכחש</item>
+        <item>.</item>
+    </array>
+    <array name="LiteraryWords">
+        <item>blade</item>
+        <item>abode</item>
+        <item>brume</item>
+        <item>barque</item>
+        <item>blithe</item>
+        <item>ere</item>
+        <item>hark</item>
+        <item>isle</item>
+        <item>nigh</item>
+        <item>orb</item>
+        <item>apace</item>
+        <item>behold</item>
+        <item>dulcify</item>
+        <item>wed</item>
+        <item>yore</item>
+        <item>hypocrite</item>
+        <item>accustomed</item>
+        <item>wax</item>
+        <item>tryst</item>
+        <item>tiding</item>
+        <item>vestal</item>
+        <item>swain</item>
+        <item>steed</item>
+        <item>strand</item>
+        <item>slumber</item>
+        <item>slay</item>
+        <item>scribe</item>
+        <item>shade</item>
+        <item>realm</item>
+        <item>plenteous</item>
+        <item>niveous</item>
+        <item>blade</item>
+    </array>
+    <array name="LiteraryWordsAnswers">
+        <item>חרב</item>
+        <item>דירה</item>
+        <item>ערפל</item>
+        <item>סירה</item>
+        <item>שמח</item>
+        <item>לפני</item>
+        <item>להקשיב</item>
+        <item>אי</item>
+        <item>ליד</item>
+        <item>גלגל</item>
+        <item>במהירות</item>
+        <item>לראות</item>
+        <item>המתיק</item>
+        <item>להתחתן</item>
+        <item>בעבר</item>
+        <item>צבוע</item>
+        <item>רגיל</item>
+        <item>שעווה</item>
+        <item>פגישה</item>
+        <item>בשורה</item>
+        <item>טהור</item>
+        <item>מאהב</item>
+        <item>סוס</item>
+        <item>חוף</item>
+        <item>שינה</item>
+        <item>הרג</item>
+        <item>סופר</item>
+        <item>רוח רפאים</item>
+        <item>ממלכה</item>
+        <item>שופע</item>
+        <item>מושלג</item>
+        <item>חרב</item>
+        <item>.</item>
+    </array>
+    <array name="basicWords">
+        <item>word</item>
+        <item>apple</item>
+        <item>pizza</item>
+        <item>cake</item>
+        <item>zoo</item>
+        <item>beer</item>
+        <item>milk</item>
+        <item>sun</item>
+        <item>computer</item>
+        <item>pencil</item>
+        <item>class</item>
+        <item>Dad</item>
+        <item>dog</item>
+        <item>salad</item>
+        <item>home</item>
+        <item>kitchen</item>
+        <item>guitar</item>
+        <item>ball</item>
+        <item>printer</item>
+        <item>door</item>
+        <item>banana</item>
+        <item>microwave</item>
+        <item>bed</item>
+        <item>table</item>
+        <item>map</item>
+        <item>knife</item>
+        <item>watermelon</item>
+        <item>monkey</item>
+        <item>cat</item>
+        <item>stick</item>
+        <item>bottle</item>
+        <item>word</item>
+    </array>
+    <array name="basicWordsAnswers">
+        <item>מילה</item>
+        <item>תפוח</item>
+        <item>פיצה</item>
+        <item>עוגה</item>
+        <item>גן חיות</item>
+        <item>בירה</item>
+        <item>חלב</item>
+        <item>שמש</item>
+        <item>מחשב</item>
+        <item>עיפרון</item>
+        <item>כיתה</item>
+        <item>אבא</item>
+        <item>כלב</item>
+        <item>סלט</item>
+        <item>בית</item>
+        <item>מטבח</item>
+        <item>גיטרה</item>
+        <item>כדור</item>
+        <item>מדפסת</item>
+        <item>דלת</item>
+        <item>בננה</item>
+        <item>מיקרוגל</item>
+        <item>מיטה</item>
+        <item>שולחן</item>
+        <item>מפה</item>
+        <item>סכין</item>
+        <item>אבטיח</item>
+        <item>קוף</item>
+        <item>חתול</item>
+        <item>מקל</item>
+        <item>בקבוק</item>
+        <item>מילה</item>
+        <item>.</item>
+    </array>
+    <array name="dailyWords">
+        <item>restaurant</item>
+        <item>company</item>
+        <item>dentist</item>
+        <item>officer</item>
+        <item>meal</item>
+        <item>diet</item>
+        <item>conversation</item>
+        <item>taxi</item>
+        <item>building</item>
+        <item>room service</item>
+        <item>cell phone</item>
+        <item>passport</item>
+        <item>ID</item>
+        <item>flight attendant</item>
+        <item>check in</item>
+        <item>security</item>
+        <item>market</item>
+        <item>air plane</item>
+        <item>over weight</item>
+        <item>take off</item>
+        <item>landing</item>
+        <item>gate</item>
+        <item>puncture</item>
+        <item>school</item>
+        <item>manager</item>
+        <item>boarding card</item>
+        <item>information</item>
+        <item>suitcase</item>
+        <item>aisle</item>
+        <item>money</item>
+        <item>ordering</item>
+        <item>restaurant</item>
+        <item>restaurant</item>
+    </array>
+    <array name="dailyWordsAnswers">
+        <item>מסעדה</item>
+        <item>חברה</item>
+        <item>רופא שיניים</item>
+        <item>קצין</item>
+        <item>ארוחה</item>
+        <item>דיאטה</item>
+        <item>שיחה</item>
+        <item>מונית</item>
+        <item>בניין</item>
+        <item>שירות חדרים</item>
+        <item>פלאפון</item>
+        <item>דרכון</item>
+        <item>תעודת זהות</item>
+        <item>דייל</item>
+        <item>קבלה</item>
+        <item>אבטחה</item>
+        <item>שוק</item>
+        <item>מטוס</item>
+        <item>משקל עודף</item>
+        <item>המראה</item>
+        <item>נחיתה</item>
+        <item>שער</item>
+        <item>פנצר</item>
+        <item>בית ספר</item>
+        <item>מנהל</item>
+        <item>כרטיס טיסה</item>
+        <item>מידע</item>
+        <item>מזוודה</item>
+        <item>מעבר</item>
+        <item>כסף</item>
+        <item>הזמנה</item>
+        <item>מסעדה</item>
+        <item>.</item>
+    </array>
+</resources>
